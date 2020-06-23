@@ -1,4 +1,4 @@
 # Pytorch_Basics  
- This repo contains all code I written while I am learning PyTorch 
+ This Repo contains all code I have written when I was learning the basics of PyTorch framework 
  
  ![Screenshot](pytorch.jpeg)
